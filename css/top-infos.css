@@ -1,0 +1,27 @@
+:root {
+    --photo-size: 150px;
+}
+
+.top-info {
+    display: grid;
+    grid-template-columns: 1fr auto;
+}
+
+.top-info [x-infos] [x-title] {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.top-info [x-infos] [x-text] {
+    font-size: 1rem;
+}
+
+.top-info [x-infos] [x-links] {
+    font-size: .8rem;
+    color: var(--color-text-2);
+}
+
+.top-info [x-photo] {
+    max-width: var(--photo-size);
+    max-height: var(--photo-size);
+}
