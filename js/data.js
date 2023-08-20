@@ -199,7 +199,7 @@ export const Data = {
             technologies: "HTML, Javascript, PHP, CSS, Photoshop, Corel Draw",
             description: `Criei um atendente virtual em forma de emoje animado que respondia com inteligência
             artificial as perguntas que os clientes faziam, o objetivo era minimizar a demanda de trabalho dos
-            atendentes, no primeiro mês ouve uma redução de atendimentos de 20%`
+            atendentes, no primeiro mês houve uma redução de atendimentos de 20%`
         },
         {
             company: "JBC Produções",
@@ -226,6 +226,134 @@ export const Data = {
             technologies: "HTML, PHP, javascript, Corel Draw, Photoshop",
             description: `Era uma empresa de roupa com pouco tempo, desejavam desenvolver o
             site para exibir as roupas e contato, não tinha venda on-line, fiz o site como desejado`
+        },
+    ],
+
+    skills: `
+        <b>Node JS</b>,
+        <b>Next JS</b>,
+        <b>React JS</b>,
+        <b>React Native</b>,
+        <b>TypeScript</b>,
+        <b>Nest JS</b>,
+        JavaScript,
+        Código limpo,
+        Arquitetura Limpa,
+        S.O.L.I.D,
+        Teste unitário,
+        Teste integrado,
+        Teste E2E,
+        TDD,
+        CSS,
+        HTML,
+        C,
+        PHP,
+        Phyton,
+        MongoDB,
+        Big Query,
+        MySQL,
+        Git,
+        GitHub,
+        GraphQL,
+        JSON,
+        XML,
+        Docker,
+        Docker composer,
+        processamento de linguagem natural,
+        NLP,
+        Processamento de imagens digitais,
+        Interpretação de requisições web,
+        Api,
+        Shell script,
+        SQL e NoSQL,
+        Banco de dados em geral,
+        Linux,
+        DOS,
+        Design de algoritmo,
+        Gestão sênior,
+        Analise de sistemas,
+        Arquitetura de sistemas,
+        Metodologia ágil,
+        Azure Devops,
+        Jenkins,
+        Vim,
+        Adobe Photoshop,
+        Adobe XD,
+        Figma,
+        Delphi,
+        JQuery,
+        Servidor Apache,
+        Adobe After Effects,
+        Linguagem Assembly,
+        Código de máquina,
+        Corel Draw,
+        Microsoft PowerPoint,
+        Microsoft Word,
+        Microsoft Excel,
+        Microsoft Windows,
+        jsx,
+        SSH,
+        FTP,
+        Batch,
+        Extensão para google chrome,
+        Apache Cordova,
+        Desenhista,
+        músico
+    `,
+
+    certificate:[
+        {
+            title: "CS50's Introduction to Computer Science",
+            school: "Harvard",
+            date: "ano de 2023, cursando até o fim do ano",
+            description: `Curso estrangeiro online em Haverd onde eles ensinam Strach, C, Phyton,
+            SQL, Algorithms, HML, CSS, Javascript, Flask, Emoji, Memory e Cybersecurity`
+        },
+        {
+            title: "NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID",
+            school: "Rodrigo Manguinho - Udemy",
+            date: "ano de 2022",
+            description: `47.5 horas de curso com Rodrigo Manguinho, Certificado de código
+            UC-a8617840-cf8a-4980-97d1-5f5d8462758e, link do certificado:
+            https://www.udemy.com/certificate/UC-a8617840-cf8a-4980-97d1-5f5d8462758e/`
+        },
+        {
+            title: "Aprenda tudo sobre o melhor NoSQL do mundo, o MongoDB!",
+            school: "Vitor Mazuco - Udemy",
+            date: "ano de 2020",
+            description: `8.5 horas de curso com Vitor Mazuco, Certificado de código
+            UC-956caca1-c6c1-4f0d-abdf-5200a9b84fb6, link do certificado:
+            https://www.udemy.com/certificate/UC-956caca1-c6c1-4f0d-abdf-5200a9b84fb6/`
+        },
+        {
+            title: "React Native: Desenvolva APPs Nativas para android e iOS",
+            school: "Cod3r - Udemy",
+            date: "ano de 2017",
+            description: `45 horas de curso com Leonardo Moura Leitao, Francisco Wagner Costa Aquino.
+            Cod3r Cursos Online. Certificado de código UC-588283d3-8010-4638-82b8-0d858d869f71,
+            link do certificado: https://www.udemy.com/certificate/UC-588283d3-8010-4638-82b8-0d858d869f71/`
+        },
+        {
+            title: "Formação Node.js",
+            school: "Guia do Programador - Udemy",
+            date: "ano de 2015",
+            description: `50 horas de curso com Victor Lima do Guia do programador. Certificado de código
+            UC-7822d2d7-93fc-4383-b88c-9d152a6ec824, link do certificado:
+            https://www.udemy.com/certificate/UC-7822d2d7-93fc-4383-b88c-9d152a6ec824/`
+        },
+        {
+            title: "Chatbot com JavaScript",
+            school: "Ben-Hur Varriano",
+            date: "ano de 2020",
+            description: `15 horas de curso com Ben-Hur Varriano, Certificado de código
+            UC-f224ef26-73e2-4d28-8ee8-b607062a91fb, link do certificado:
+            https://www.udemy.com/certificate/UC-f224ef26-73e2-4d28-8ee8-b607062a91fb/`
+        },
+        {
+            title: "Ensino médio",
+            school: "Escola presidente Humberto Castelo Branch",
+            date: "2003",
+            description: `Formação escolar`
         },
     ]
 }

@@ -1,0 +1,15 @@
+.skills {
+    color: var(--color-text-4);
+    font-size: .8rem;
+}
+
+.skills p{
+    font-size: 1.2rem;
+    color: var(--color-text-3);
+    font-weight: bold;
+}
+
+.skills [x-skills] {
+    font-size: 14;
+    text-align: justify;
+}

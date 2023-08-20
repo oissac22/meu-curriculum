@@ -7,8 +7,10 @@ async function requestComponent(component)
 
 const components = [
     "top",
+    "skills",
     "experience",
-    "projects"
+    "projects",
+    "certificate"
 ]
 
 export async function loadAllComponents()

@@ -1,0 +1,35 @@
+.certificate {
+    color: var(--color-text-4);
+}
+
+.certificate p{
+    font-size: 1.2rem;
+    color: var(--color-text-3);
+    font-weight: bold;
+}
+
+.certificate [x-title] {
+    font-weight: bold;
+}
+
+.certificate [x-school] {
+    color: var(--color-text-3);
+}
+
+.certificate [x-list] {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 0.8rem;
+}
+
+.certificate [x-date] {
+    color: var(--color-text-2);
+    font-size: 0.6rem;
+}
+
+.certificate [x-item] {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
