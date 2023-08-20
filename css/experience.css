@@ -1,0 +1,34 @@
+.experience {
+    color: var(--color-text-4);
+}
+
+.experience p{
+    font-size: 1.2rem;
+    color: var(--color-text-3);
+    font-weight: bold;
+}
+
+.experience [x-title] {
+}
+
+.experience [x-list] {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 0.8rem;
+}
+
+.experience [x-title] [x-company]{
+    font-weight: bold;
+}
+
+.experience [x-date] {
+    color: var(--color-text-2);
+    font-size: 0.6rem;
+}
+
+.experience [x-item] {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}

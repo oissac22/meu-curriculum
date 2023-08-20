@@ -6,7 +6,9 @@ async function requestComponent(component)
 }
 
 const components = [
-    "top"
+    "top",
+    "experience",
+    "projects"
 ]
 
 export async function loadAllComponents()
@@ -16,7 +18,7 @@ export async function loadAllComponents()
     for (let i = 0; i < length; i++)
     {
         const component = components[i];
-        const data = await requestComponent(components);
+        const data = await requestComponent(component);
         html.push(data);
     }
     const body = document.body;

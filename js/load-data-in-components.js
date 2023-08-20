@@ -1,31 +1,62 @@
 import { Data } from './data.js'
 
-function loadXNComponents()
+function loadXNComponents(doc, _data)
 {
-    const querys = document.querySelectorAll("[x-n]");
+    if (!doc)
+        doc = document;
+    if (!_data)
+        _data = Data;
+    const querys = doc.querySelectorAll("[x-n]");
     querys.forEach(query => {
         const name = query.getAttribute("x-n");
         if (name)
         {
-            query.innerHTML = Data[name];
+            query.innerHTML = _data[name];
+            query.removeAttribute("x-n");
         }
     })
 }
 
-function loadXSComponents()
+function loadXSComponents(doc, _data)
 {
-    const querys = document.querySelectorAll("[x-s]");
+    if (!doc)
+        doc = document;
+    if (!_data)
+        _data = Data;
+    const querys = doc.querySelectorAll("[x-s]");
     querys.forEach(query => {
         const name = query.getAttribute("x-s");
         if (name)
         {
-            query.src = Data[name];
+            query.src = _data[name];
+            query.removeAttribute("x-s");
+        }
+    })
+}
+
+function loadSLoopComponents()
+{
+    const querys = document.querySelectorAll("[s-loop]");
+    querys.forEach(query => {
+        const name = query.getAttribute("s-loop");
+        if (name)
+        {
+            const html = query.innerHTML;
+            query.innerHTML = '';
+            const itensToLoop = Data[name];
+            itensToLoop.map(data => {
+                query.innerHTML += html;
+                loadXNComponents(query, data);
+                loadXSComponents(query, data);
+            })
+            query.removeAttribute("s-loop");
         }
     })
 }
 
 export function loadDataInComponents()
 {
+    loadSLoopComponents()
     loadXNComponents();
     loadXSComponents();
 }

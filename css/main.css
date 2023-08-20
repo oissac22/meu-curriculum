@@ -1,5 +1,7 @@
 @import url('colors.css');
 @import url('top-infos.css');
+@import url('experience.css');
+@import url('projects.css');
 
 body, html {
     margin: 0;
@@ -9,4 +11,8 @@ body, html {
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
+}
+
+[x-justify] {
+    text-align: justify;
 }
