@@ -5,6 +5,7 @@ export const Data = {
     linkedin: "https://www.linkedin.com/in/cássio-silva-04b9bb177",
     github: "https://github.com/oissac22",
     githubcv: "https://github.com/oissac22/meu-curriculum",
+    contact: "Fone: +55 (81) 99531-4854 - Recife/PE - Brasil - oissac22@hotmail.com",
 
     photo: "/img/smille-face.jpg",
 
