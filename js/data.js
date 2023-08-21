@@ -4,6 +4,7 @@ export const Data = {
     title: "Programador Sênior com mais de 20 anos de carreira",
     linkedin: "https://www.linkedin.com/in/cássio-silva-04b9bb177",
     github: "https://github.com/oissac22",
+    githubcv: "https://github.com/oissac22/meu-curriculum",
 
     photo: "/img/smille-face.jpg",
 
