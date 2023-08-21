@@ -236,13 +236,13 @@ export const Data = {
         <b>React Native</b>,
         <b>TypeScript</b>,
         <b>Nest JS</b>,
+        <b>Código limpo</b>,
+        <b>Arquitetura Limpa</b>,
+        <b>Teste unitário</b>,
+        <b>Teste integrado</b>,
+        <b>Teste E2E</b>,
         JavaScript,
-        Código limpo,
-        Arquitetura Limpa,
         S.O.L.I.D,
-        Teste unitário,
-        Teste integrado,
-        Teste E2E,
         TDD,
         CSS,
         HTML,
@@ -301,13 +301,13 @@ export const Data = {
         músico
     `,
 
-    certificate:[
+    certificate: [
         {
             title: "CS50's Introduction to Computer Science",
             school: "Harvard",
             date: "ano de 2023, cursando até o fim do ano",
             description: `Curso estrangeiro online em Haverd onde eles ensinam Strach, C, Phyton,
-            SQL, Algorithms, HML, CSS, Javascript, Flask, Emoji, Memory e Cybersecurity`
+            SQL, Algorithms, HTML, CSS, Javascript, Flask, Emoji, Memory e Cybersecurity`
         },
         {
             title: "NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID",
@@ -355,5 +355,186 @@ export const Data = {
             date: "2003",
             description: `Formação escolar`
         },
+    ],
+
+    devHistory: [
+        {
+            title: "Node JS",
+            description: `Pra mim algo revolucionário em simplicidade e ideia, javascript no backend com um
+            padrão de programação simples, seguro, rápido e dinâmico, uma comunidade enorme,
+            foi amor a primeira vista. Comecei a estudar o node js por volta
+            de 2015 e passei a usar em todos os meus sistemas atuais a partir de 2018. Com todo o
+            suporte de bibliotecas como o express, facilidade de tratar certificados ssl,
+            independência e velocidade de preparação de um servidor, etc... I love Node.`
+        },
+        {
+            title: "NextJS, React JS, React Native",
+            description: `Algo revolucionário foi o react na minha opinião, tudo aquilo que programadores web
+            desejavam e buscavam foi colocado no react. Eu era relutante sobre este framework
+            e achava que era exagero das pessoas mas pra minha surpresa foi algo que eu já
+            procurava a muito tempo, digo que 95% dos meus projetos front seguem essa tecnologia,
+            seja native ou JS.
+            Comecei a projetar nela em 2017 e tem sido assim todos os dias de domingo a domingo
+            já que vivo programando e como o react esta em tudo que eu faço, é isso! Sou muito
+            experiente e com uma prática diária, isso
+            me fez avançar muito.`
+        },
+        {
+            title: "TypeScript",
+            description: `Conheci o typescript por volta de  2018 e confesso que foi muito fácil de aprender, afinal
+            de contas ele é o javascript refatorado por assim dizer, a typagem foi algo inovador para o JS,
+            uso em todos os meus projetos
+            atuais pois ajuda muito no desenvolvimento e manutenção, é compensador.
+            `
+        },
+        {
+            title: "Git / Git Hub",
+            description: `Todo programador precisa do git, é praticamente uma lei, ótimo em armazenamento,
+            organização, informações, recuperação, deploy, trabalho em equipe, e muito mais. Tudo
+            meu vai pro git, todos os meus projetos estão lá. Uso ele desdê 2019 e me ajuda em tudo.`
+        },
+        {
+            title: "Testes",
+            description: `Comecei a trabalhar com testes no ano de 2019 e acho incrível o quanto as margens de
+            erros de codificação cairam após eu começar a aplicar o TDD, testes unitários, integrados e E2E.
+            Uso o Jest e foco no tdd, todos os meus projetos atuais tem o padrão tdd
+            para comprovar seu bom funcionamento futuro, mesmo após manutenções.`
+        },
+        {
+            title: "SQL",
+            description: `Linguagem que conheci trabalhando na NTD Soft, não estudei
+            só coisas básicas como select, insert, update, delete, join. Estudei também procedures,
+            functions, advance programing, data science, views, mysql administration, estruturação,
+            backup, manutenção, etc... nunca me foquei em livros de mysql apesar de ter alguns,
+            mas sempre gostei de estudar a documentação oficial, isso não só com mysql, mas também
+            nas outras linguagens.`
+        },
+        {
+            title: "NoSQL",
+            description: `estudei o NoSQL em 2019 mas passei a usar muito mesmo em 2020 e me apaixonei por este.
+            Não desmereço mo SQL, pra mim os dois tem suas qualidades e defeitos`
+        },
+        {
+            title: "Java Script",
+            description: `Uma das linguagens que eu mais odiava a mais de 10 anos atrás por causa das irregularidades
+            entre os navegadores, mas que cresceu de
+            uma forma tão absurda, se tornando assim a minha favorita. Sempre usei o js no passado
+            para fazer coisas básicas como menu extensivo, banners, slide, etc... hoje, sempre que
+            vou programar sem usar React faço quase tudo sobre o javascript trazendo assim mais
+            dinamismo aos projetos. Sou experiente e avançado, não tenho dificuldade com nada nesta linguagem.`
+        },
+        {
+            title: "CSS",
+            description: `Uma linguagem que eu olhava para ela, por volta de 2006 e
+            achava que não servia para nada, mas de 2007 pra cá é um crime não usar css em algum
+            projeto web. Não exite, já fiz incontáveis sites, web app e até documentos locais
+            independentes com extensão html, como este currículo e é impossível você fazer algo
+            bom sem css.`
+        },
+        {
+            title: "JSON",
+            description: `Pra mim muito superior ao XML, uma estratégia suprema de
+            comunicação de dados principalmente voltada a APIs. Considero muito por causa
+            da leveza e simplicidade.`
+        },
+        {
+            title: "HTML",
+            description: `Conheci o html com 13 anos em uma escola de informática chamada Malba lucena, em 1997.
+            Lembro da alegria que senti quando via
+            aquelas tags ganhando forma, parecia mágico. Uso até hoje. HTML pra mim é algo que
+            não morre tão cedo e que fez história.`
+        },
+        {
+            title: "Linux",
+            description: `Que sistema operacional incrível, tenho experiência no windows desde 1997 mas como
+            um programador considero o linux, o melhor sistema operacional, rápido, simples, um
+            ótimo shell, segurança... todos os meus projetos web são desenvolvidos sobre o línux
+            desdê 2012, tenho bastante experiência seja via terminal ou desktop, pode me dar o
+            línux zerado e eu deixo ele pronto bem rápido, não só como sistema operacional mas
+            também como servidor web completo para hospedagens de vários clientes.`
+        },
+        {
+            title: "JQuery",
+            description: `Um framework que hoje considero quase morto, mas que deixou seu legado com
+            honra, usei muito por sua extrema facilidade na programação mas quase tudo era
+            voltado para tratamentos com array, nodeList e ajax, coisas que hoje em dia você
+            encontra muito bem fundamentada no próprio javascript e em outros componentes como
+            o fetch e Axios por exemplo.`
+        },
+        {
+            title: "Delphi",
+            description: `Linguagem que comecei a estudar mais ou menos no ano de 1999, e comecei a criar
+            programas com este por volta do ano 2000, o velho delphi 7, foi onde eu comecei a conhecer
+            realmente o poder da programação. Meu primeiro projeto foi um programa para uma
+            locadora do qual na época cobrei menos de 100 reais, não fazia a mínima ideia do valor
+            deste trabalho na época até mesmo porque por onde eu morava apenas eu programava
+            e não conhecia mais ninguém, a última vez que desenvolvi nesta plataforma foi por volta de 2018
+            onde estava refatorando um sistema de sincronização de dados entre um banco
+            online e um local.`
+        },
+        {
+            title: "PHP",
+            description: `Trabalho com php desde o ano de 2000, fiz muitos projetos para empresas como a JBC
+            Produções, forrozão produções, ntdsoft e muitos trabalhos privados para comércios,
+            escritórios, sociais, lojas, etc. Hoje em dia prefiro trabalhar com node mas ainda trabalho
+            muito com php e não deixei de curtir esta linguagem que ainda cresce.`
+        },
+        {
+            title: "ShellScript e DOS/BATCH",
+            description: `produção de arquivos script sempre foi algo ótimo para agilizar muitos trabalhos,
+            processos e deploys mais rusticos. Já trabalho com scripts para windows desdê o ano de 2000 e com
+            scripts para linux desdê 2012. Acho essencial para quem administra servidores e redes
+            e muito útil para adiantar serviços de produção. Uso sempre em todos os meus
+            trabalhos, como por exemplo nos deploys de servidores locais que tenho e VPSs.`
+        },
+        {
+            title: "Vim",
+            description: `Mais um editor que uma linguagem apesar de sua administração real ser sempre a base
+            de códigos. Eu não queria nem saber do vim, sempre corria para o nano, mas por causa
+            de um amigo meu especialista em rede e também tutor meu em muitas coisas desta
+            área, este sempre falava do vim de forma muito repetitiva e acabou me despertando a
+            curiosidade por volta do ano de 2017. A dificuldade foi só o costume de usar um editor
+            que funciona a base de código, mas depois que você aprende não quer largar mais.
+            Sempre faço os ajustes de arquivos via terminal ou ssh usando o vim, nem lembro a
+            última vez que usei o nano.`
+        },
+        {
+            title: "Servidor Apache",
+            description: `Montei incontáveis servidores apache, mexo com apache desde 2014 mas confesso
+            que odeio, foi um dois motivos que me impulsionou a estudar o node`
+        },
+        {
+            title: "XML",
+            description: `Muito bom e por muito tempo foi útil, mas hoje considero que o json está bem acima e
+            só trabalho com xml quando realmente é necessário. minha experiência com xml vem
+            desde 2004.`
+        },
+        {
+            title: "Assembly",
+            description: `Comecei a estudar assembly e assembler em 2002. Sempre fui curioso sobre os
+            funcionamentos da tecnologia, tanto que quando eu era criança vivia tentando entender
+            aparelhos eletrônicos e com 8 anos já ajudava meu pai e irmãos a consertar os josticks
+            do super nintendo, nintendinho e mega drive que tinham em casa ( era uma locadora de
+            games ). esse mesmo pensamento me levou a estudar assembly e assembler, lembro
+            que já construir alguns programas ".com" apenas digitando os bytes e passei muito
+            tempo mexendo com isso... faz ums anos que não mexo mais lembro de muita coisa
+            ainda, os mov, add, registores, e nesta mesma época meu conhecimento binário evoluiu
+            muito.`
+        },
+        {
+            title: "Adobe XD e Figma",
+            description: `O XD foi uma grande surpresa pra mim, que plataforma genial e fácil para planejamento de
+            design de projetos, sempre uso em todos os meus projetos pois é uma luz muito grande
+            pra transformar o resultado da programação em uma obra prima. comecei a trabalhar
+            com ele em 2019, antes usava o corel draw e photo shop para planejar os projetos.
+            Mas hoje foco no figma, a burocracia de uso do XD era muito chata me fazendo migrar para o figma que
+            tem muita simplicidade no seu uso e para a equipe.`
+        },
+        {
+            title: "MVC, Código limpo, Arquitetura limpa e SOLID",
+            description: `Sempre procurei meios de organizar meu código de forma efetiva, mas era exaustivo,
+            nunca estava bom aos meus olhos. Conhecer essas técnicas de codificação foi algo inovador para mim
+            e sou apaixonado por elas, algo que levo pra sempre.`
+        }
     ]
 }

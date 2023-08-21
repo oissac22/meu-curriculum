@@ -4,6 +4,7 @@
 @import url('projects.css');
 @import url('skills.css');
 @import url('certificate.css');
+@import url('devHistory.css');
 
 body, html {
     margin: 0;

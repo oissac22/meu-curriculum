@@ -10,7 +10,8 @@ const components = [
     "skills",
     "experience",
     "projects",
-    "certificate"
+    "certificate",
+    "devHistory",
 ]
 
 export async function loadAllComponents()
