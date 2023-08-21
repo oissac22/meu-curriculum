@@ -16,7 +16,7 @@ export const Data = {
             job: "Programador Sênior frontend e backend",
             from: "novembro de 2020",
             to: "trabalho atual",
-            description: `Atuo como lider técnico e no desenvolvendo sistemas frontend e backend,
+            description: `Atuo como líder técnico e no desenvolvendo sistemas frontend e backend,
             envolvendo principalmente React JS, Node JS, Next JS, javascript, css, html,
             além de uso e implementações de muitas tecnologias como o dialogflow,
             jenkins, devops azure, mysql, sqllitter, mongodb, oracledb, etc...
@@ -54,7 +54,7 @@ export const Data = {
         {
             title: "Autônomo",
             state: "Pernambuco",
-            job: "Programador Pleno and design",
+            job: "Programador Pleno e design",
             from: "janeiro DE 2000",
             to: "janeiro DE 2006",
             description: `Atuei como programador utilizando html, javascript, css, php e delphi pascal,
@@ -73,7 +73,7 @@ export const Data = {
             atrasadas e até antigas, este sistema sinalizava para que fosse identificado rapidamente os
             clientes em espera e outras situações, para este sistema eu construir um frontend e o backend
             além do uso de banco de dados noSQL mongodb, o sistema também registrava os logs, mantinha
-            execuções em segundo plano para sicronizar os dados da BLIP com os dados locais, o sistema
+            execuções em segundo plano para sincronizar os dados da BLIP com os dados locais, o sistema
             também era controlado por senha. Todo ele, design, código e estratégias eu desenvolvi de ponta
             a ponta. O mesmo era composto de boas práticas e testes unitários.`
         },
@@ -94,10 +94,10 @@ export const Data = {
             description: `Este era um chatbot onde os clientes consultam os sintomas e recebem um direcionamento
             referente a isso, eu construir o front que era um chatbot e o backend que administrava o mesmo,
             também construir no front uma IA sem dependências de terceiros, usando apenas matemática e estratégias
-            envolvendo algoritimos de NLP, o objetivo da inteligância era entender os sintomas independente do
+            envolvendo algoritmos de NLP, o objetivo da inteligência era entender os sintomas independente do
             que fosse digitado, por exemplo, o sistema conseguia associar a frase "estou com muita dor de cabeça"
             a enxaqueca, náusea e outros referentes.
-            Neste projeto fui responsável pela cordenação de mais 3 devs que me davam suporte no desenvolvimento.
+            Neste projeto fui responsável pela coordenação de mais 3 devs que me davam suporte no desenvolvimento.
             O mesmo era composto de boas práticas e testes unitários.`
         },
         {
@@ -106,7 +106,7 @@ export const Data = {
             technologies: "NextJS, NodeJS, Typescript, Jest, Mongo DB, Json Web Token, Blip Api",
             description: `Este era um sistema que se vinculava ao chatbot, o objetivo era realizar a comunicação
             de vídeo, fone e/ou chat entre um cliente e um médico.
-            Neste projeto fui responsável pela cordenação de mais 3 devs que me davam suporte no desenvolvimento.
+            Neste projeto fui responsável pela coordenação de mais 3 devs que me davam suporte no desenvolvimento.
             O mesmo era composto de boas práticas e testes unitários.`
         },
         {
@@ -120,14 +120,14 @@ export const Data = {
             company: "NTD Soft",
             job: "Portal de notas",
             technologies: "ReactJS, NodeJS, PHP, MySQL",
-            description: `Desenvolvir um sistema de notas front e backend com as tecnologias sitadas,
+            description: `Desenvolvi um sistema de notas front e backend com as tecnologias citadas,
             os usuários podiam configurar várias tabelas em um administrador de design que o sistema tinha,
-            também poderiam configurar as formulas e imprimir a mesma, em resumo, administrava tudo que
+            também poderiam configurar as fórmulas  e imprimir a mesma, em resumo, administrava tudo que
             envolvesse as notas.`
         },
         {
             company: "NTD Soft",
-            job: "Sistema de provas inteligênte",
+            job: "Sistema de provas inteligente",
             technologies: "ReactJS, NodeJS, PHP, MySQL",
             description: `Desenvolvi um sistema que gerava provas e depois os resultados dessas provas
             eram reconhecida apenas scaneando as mesmas e enviando para este mesmo sistema que interpretava
@@ -138,8 +138,8 @@ export const Data = {
             job: "Sistema de exercícios",
             technologies: "ReactJS, NodeJS, PHP, MySQL",
             description: `Desenvolvi um sistema de exercícios onde os professores cadastravam os exercícios,
-            e testes e os alunos pelo celular ou pc acessavam e respondiam, o sistema sortiava os exercícios
-            e as respostas dificultando a fila entre alunos.`
+            e testes e os alunos pelo celular ou pc acessavam e respondiam, o sistema sorteava os exercícios
+            e as respostas dificultando a troca de informações entre alunos.`
         },
         {
             company: "NTD Soft",
@@ -175,17 +175,17 @@ export const Data = {
             technologies: "Linux, ShellScript, MySQL, PHP, Apache, PM2, Docker",
             description: `Fui responsável por rever e reconstruir toda a infra dos servidores da NTD Soft,
             incluindo a segurança. Nos primeiros anos eu não tinha responsabilidade nenhum com este setor
-            mas depois de "ocorridos" nos servidores e idéias que eu tive foi me passada toda a responsabilidade.`
+            mas depois de "ocorridos" nos servidores e ideias que eu tive foi me passada toda a responsabilidade.`
         },
         {
             company: "NTD Soft",
-            job: "Sicronizador de dados",
+            job: "Sincronizador de dados",
             technologies: "Delphi e Java",
-            description: `Como o acesso a um tempo atrás era muito ruim para as escolas, principalmente no
+            description: `Como o acesso a um tempo era muito ruim para as escolas, principalmente no
             interior, era necessário que o sistema funcionasse off-line, então era instalado um banco mysql
-            na máquina dos clientes e para manter os dados sicronizados eu desenvolvir em Delphi o programa
-            responsável por isso que ficava na bandeija analizando os dados on e off, analizando a net e 
-            sua qualidade e realizando todo o sicronismo. Como algumas máquinas tinha problema com o sistema
+            na máquina dos clientes e para manter os dados sincronizados eu desenvolvi em Delphi o programa
+            responsável por isso que ficava na bandeja analisando os dados on e off, analisando a net e 
+            sua qualidade e realizando todo o sincronismo. Como algumas máquinas tinham problema com o sistema
             desenvolvido em Delphi eu também fiz uma versão em Java`
         },
         {
@@ -197,9 +197,9 @@ export const Data = {
         },
         {
             company: "NTD Soft",
-            job: "Emoje Atendente Virtual",
+            job: "i Atendente Virtual",
             technologies: "HTML, Javascript, PHP, CSS, Photoshop, Corel Draw",
-            description: `Criei um atendente virtual em forma de emoje animado que respondia com inteligência
+            description: `Criei um atendente virtual em forma de emoji animado que respondia com inteligência
             artificial as perguntas que os clientes faziam, o objetivo era minimizar a demanda de trabalho dos
             atendentes, no primeiro mês houve uma redução de atendimentos de 20%`
         },
@@ -207,20 +207,20 @@ export const Data = {
             company: "JBC Produções",
             job: "Site e designs de evento e propaganda da JBC no restaurante Italiana em Recife/PE",
             technologies: "HTML, Javascript, PHP, CSS, Photoshop, Corel Draw, After effect",
-            description: `Desenvolvir os vídeos, e designs do evento da empresa além de um mini sistema
+            description: `Desenvolvi os vídeos, e designs do evento da empresa além de um mini sistema
             da mesma para administração do evento`
         },
         {
             company: "Forrozão produções",
             job: "Site do Calango Aceso",
             technologies: "HTML, PHP, Adobe Flash, Corel Draw, Photoshop",
-            description: `Desenvolvir o site da banda Calango Aceso e todo o design do mesmo`
+            description: `Desenvolvi o site da banda Calango Aceso e todo o design do mesmo`
         },
         {
             company: "Forrozão produções",
             job: "Site do Mel com terra",
             technologies: "HTML, PHP, Adobe Flash, Corel Draw, Photoshop",
-            description: `Desenvolvir o site da banda Mel com terra e todo o design do mesmo`
+            description: `Desenvolvi o site da banda Mel com terra e todo o design do mesmo`
         },
         {
             company: "Biox",
@@ -309,7 +309,7 @@ export const Data = {
             title: "CS50's Introduction to Computer Science",
             school: "Harvard",
             date: "ano de 2023, cursando até o fim do ano",
-            description: `Curso estrangeiro online em Haverd onde eles ensinam Strach, C, Phyton,
+            description: `Curso estrangeiro online em Harvard onde eles ensinam Strach, C, Phyton,
             SQL, Algorithms, HTML, CSS, Javascript, Flask, Emoji, Memory e Cybersecurity`
         },
         {
@@ -365,7 +365,7 @@ export const Data = {
             title: "Node JS",
             description: `Pra mim algo revolucionário em simplicidade e ideia, javascript no backend com um
             padrão de programação simples, seguro, rápido e dinâmico, uma comunidade enorme,
-            foi amor a primeira vista. Comecei a estudar o node js por volta
+            foi amor à primeira vista. Comecei a estudar o node js por volta
             de 2015 e passei a usar em todos os meus sistemas atuais a partir de 2018. Com todo o
             suporte de bibliotecas como o express, facilidade de tratar certificados ssl,
             independência e velocidade de preparação de um servidor, etc... I love Node.`
@@ -374,11 +374,11 @@ export const Data = {
             title: "NextJS, React JS, React Native",
             description: `Algo revolucionário foi o react na minha opinião, tudo aquilo que programadores web
             desejavam e buscavam foi colocado no react. Eu era relutante sobre este framework
-            e achava que era exagero das pessoas mas pra minha surpresa foi algo que eu já
-            procurava a muito tempo, digo que 95% dos meus projetos front seguem essa tecnologia,
+            e achava que era exagero das pessoas, mas pra minha surpresa foi algo que eu já
+            procurava há muito tempo, digo que 95% dos meus projetos front seguem essa tecnologia,
             seja native ou JS.
             Comecei a projetar nela em 2017 e tem sido assim todos os dias de domingo a domingo
-            já que vivo programando e como o react esta em tudo que eu faço, é isso! Sou muito
+            já que vivo programando e como o react está em tudo que eu faço, é isso! Sou muito
             experiente e com uma prática diária, isso
             me fez avançar muito.`
         },
@@ -394,18 +394,18 @@ export const Data = {
             title: "Git / Git Hub",
             description: `Todo programador precisa do git, é praticamente uma lei, ótimo em armazenamento,
             organização, informações, recuperação, deploy, trabalho em equipe, e muito mais. Tudo
-            meu vai pro git, todos os meus projetos estão lá. Uso ele desdê 2019 e me ajuda em tudo.`
+            meu vai pro git, todos os meus projetos estão lá. Uso ele desde 2019 e me ajuda em tudo.`
         },
         {
             title: "Testes",
             description: `Comecei a trabalhar com testes no ano de 2019 e acho incrível o quanto as margens de
-            erros de codificação cairam após eu começar a aplicar o TDD, testes unitários, integrados e E2E.
+            erros de codificação caíram após eu começar a aplicar o TDD, testes unitários, integrados e E2E.
             Uso o Jest e foco no tdd, todos os meus projetos atuais tem o padrão tdd
             para comprovar seu bom funcionamento futuro, mesmo após manutenções.`
         },
         {
             title: "GraphQL",
-            description: `Conheci essa linguagem por causa de uma entrevista em 2023, muito interessante, dinamica
+            description: `Conheci essa linguagem por causa de uma entrevista em 2023, muito interessante, dinâmica
             e super fácil de aprender. Já esta sendo parte de meu dia a dia.`
         },
         {
@@ -419,12 +419,12 @@ export const Data = {
         },
         {
             title: "NoSQL",
-            description: `estudei o NoSQL em 2019 mas passei a usar muito mesmo em 2020 e me apaixonei por este.
+            description: `Estudei o NoSQL em 2019, mas passei a usar muito mesmo em 2020 e me apaixonei por este.
             Não desmereço mo SQL, pra mim os dois tem suas qualidades e defeitos`
         },
         {
-            title: "Java Script",
-            description: `Uma das linguagens que eu mais odiava a mais de 10 anos atrás por causa das irregularidades
+            title: "JavaScript",
+            description: `Uma das linguagens que eu achava insuportável a muitos anos atrás por causa das irregularidades
             entre os navegadores, mas que cresceu de
             uma forma tão absurda, se tornando assim a minha favorita. Sempre usei o js no passado
             para fazer coisas básicas como menu extensivo, banners, slide, etc... hoje, sempre que
@@ -435,7 +435,7 @@ export const Data = {
             title: "CSS",
             description: `Uma linguagem que eu olhava para ela, por volta de 2006 e
             achava que não servia para nada, mas de 2007 pra cá é um crime não usar css em algum
-            projeto web. Não exite, já fiz incontáveis sites, web app e até documentos locais
+            projeto web. Não existe, já fiz incontáveis sites, web app e até documentos locais
             independentes com extensão html, como este currículo e é impossível você fazer algo
             bom sem css.`
         },
@@ -448,7 +448,7 @@ export const Data = {
         {
             title: "HTML",
             description: `Conheci o html com 13 anos em uma escola de informática chamada Malba lucena, em 1997.
-            Lembro da alegria que senti quando via
+            Lembro da alegria que senti ao ver
             aquelas tags ganhando forma, parecia mágico. Uso até hoje. HTML pra mim é algo que
             não morre tão cedo e que fez história.`
         },
@@ -457,7 +457,7 @@ export const Data = {
             description: `Que sistema operacional incrível, tenho experiência no windows desde 1997 mas como
             um programador considero o linux, o melhor sistema operacional, rápido, simples, um
             ótimo shell, segurança... todos os meus projetos web são desenvolvidos sobre o línux
-            desdê 2012, tenho bastante experiência seja via terminal ou desktop, pode me dar o
+            desde 2012, tenho bastante experiência seja via terminal ou desktop, pode me dar o
             línux zerado e eu deixo ele pronto bem rápido, não só como sistema operacional mas
             também como servidor web completo para hospedagens de vários clientes.`
         },
@@ -489,9 +489,9 @@ export const Data = {
         },
         {
             title: "ShellScript e DOS/BATCH",
-            description: `produção de arquivos script sempre foi algo ótimo para agilizar muitos trabalhos,
-            processos e deploys mais rusticos. Já trabalho com scripts para windows desdê o ano de 2000 e com
-            scripts para linux desdê 2012. Acho essencial para quem administra servidores e redes
+            description: `Produção de arquivos script sempre foi algo ótimo para agilizar muitos trabalhos,
+            processos e deploys mais rústicos. Já trabalho com scripts para windows desde o ano de 2000 e com
+            scripts para linux desde 2012. Acho essencial para quem administra servidores e redes
             e muito útil para adiantar serviços de produção. Uso sempre em todos os meus
             trabalhos, como por exemplo nos deploys de servidores locais que tenho e VPSs.`
         },
@@ -509,7 +509,7 @@ export const Data = {
         {
             title: "Servidor Apache",
             description: `Montei incontáveis servidores apache, mexo com apache desde 2014 mas confesso
-            que odeio, foi um dois motivos que me impulsionou a estudar o node`
+            que odeio, foi um dos motivos que me impulsionou a estudar o node`
         },
         {
             title: "XML",
@@ -525,7 +525,7 @@ export const Data = {
             do super nintendo, nintendinho e mega drive que tinham em casa ( era uma locadora de
             games ). esse mesmo pensamento me levou a estudar assembly e assembler, lembro
             que já construir alguns programas ".com" apenas digitando os bytes e passei muito
-            tempo mexendo com isso... faz ums anos que não mexo mais lembro de muita coisa
+            tempo mexendo com isso... faz uns anos que não mexo mais lembro de muita coisa
             ainda, os mov, add, registores, e nesta mesma época meu conhecimento binário evoluiu
             muito.`
         },
@@ -533,9 +533,9 @@ export const Data = {
             title: "Adobe XD e Figma",
             description: `O XD foi uma grande surpresa pra mim, que plataforma genial e fácil para planejamento de
             design de projetos, sempre uso em todos os meus projetos pois é uma luz muito grande
-            pra transformar o resultado da programação em uma obra prima. comecei a trabalhar
+            pra transformar o resultado da programação em uma obra prima. Comecei a trabalhar
             com ele em 2019, antes usava o corel draw e photo shop para planejar os projetos.
-            Mas hoje foco no figma, a burocracia de uso do XD era muito chata me fazendo migrar para o figma que
+            Mas hoje foco no figma, a burocracia de uso do XD era muito enfadonho, me fazendo migrar para o figma que
             tem muita simplicidade no seu uso e para a equipe.`
         },
         {
