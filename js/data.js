@@ -25,7 +25,7 @@ export const Data = {
         {
             title: "NTD Soft",
             state: "Recife/PE",
-            job: "Programador Sênior frontend e backend",
+            job: "Analista de sistemas e Programador Sênior frontend e backend",
             from: "dezembro de 2010",
             to: "novembro de 2020",
             description: `Atuando em várias áreas da programação no frontend e backend, utilizando
@@ -54,7 +54,7 @@ export const Data = {
         {
             title: "Autônomo",
             state: "Pernambuco",
-            job: "Programador Pleno e design",
+            job: "Programador Junior e design",
             from: "janeiro DE 2000",
             to: "janeiro DE 2006",
             description: `Atuei como programador utilizando html, javascript, css, php e delphi pascal,
