@@ -197,11 +197,11 @@ export const Data = {
         },
         {
             company: "NTD Soft",
-            job: "i Atendente Virtual",
+            job: "IA - Atendente Virtual",
             technologies: "HTML, Javascript, PHP, CSS, Photoshop, Corel Draw",
             description: `Criei um atendente virtual em forma de emoji animado que respondia com inteligência
             artificial as perguntas que os clientes faziam, o objetivo era minimizar a demanda de trabalho dos
-            atendentes, no primeiro mês houve uma redução de atendimentos de 20%`
+            atendentes, no primeiro mês houve uma redução de 20% nos atendimentos`
         },
         {
             company: "JBC Produções",
