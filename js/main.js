@@ -5,8 +5,8 @@ async function main()
 {
     await loadAllComponents()
     loadDataInComponents();
-    // print();
 }
 
 
 window.addEventListener('load', main)
+window.addEventListener('click', print);
