@@ -68,10 +68,10 @@ export const Data = {
             company: "DBC Company / Unimed Porto alegre",
             job: "Monitoramento de conversas Cliente x Atendente",
             technologies: "NextJS, NodeJS, Typescript, Jest, Mongo DB, Json Web Token, Blip Api",
-            description: `Neste projeto eu tive que construir um sistema administrativo de conversas
+            description: `Neste projeto eu tive que construi um sistema administrativo de conversas
             que tinha como responsabilidade verificar e mostrar as mensagens que estavam em ocorrência,
             atrasadas e até antigas, este sistema sinalizava para que fosse identificado rapidamente os
-            clientes em espera e outras situações, para este sistema eu construir um frontend e o backend
+            clientes em espera e outras situações, para este sistema eu construi um frontend e o backend
             além do uso de banco de dados noSQL mongodb, o sistema também registrava os logs, mantinha
             execuções em segundo plano para sincronizar os dados da BLIP com os dados locais, o sistema
             também era controlado por senha. Todo ele, design, código e estratégias eu desenvolvi de ponta
@@ -92,8 +92,8 @@ export const Data = {
             job: "PAD - Chatbot",
             technologies: "ReactJS, NodeJS, Typescript, Jest, Mongo DB, Json Web Token",
             description: `Este era um chatbot onde os clientes consultam os sintomas e recebem um direcionamento
-            referente a isso, eu construir o front que era um chatbot e o backend que administrava o mesmo,
-            também construir no front uma IA sem dependências de terceiros, usando apenas matemática e estratégias
+            referente a isso, eu construi o front que era um chatbot e o backend que administrava o mesmo,
+            também construi no front uma IA sem dependências de terceiros, usando apenas matemática e estratégias
             envolvendo algoritmos de NLP, o objetivo da inteligência era entender os sintomas independente do
             que fosse digitado, por exemplo, o sistema conseguia associar a frase "estou com muita dor de cabeça"
             a enxaqueca, náusea e outros referentes.
@@ -543,7 +543,7 @@ export const Data = {
             aparelhos eletrônicos e com 8 anos já ajudava meu pai e irmãos a consertar os josticks
             do super nintendo, nintendinho e mega drive que tinham em casa ( era uma locadora de
             games ). esse mesmo pensamento me levou a estudar assembly e assembler, lembro
-            que já construir alguns programas ".com" apenas digitando os bytes e passei muito
+            que já construi alguns programas ".com" apenas digitando os bytes e passei muito
             tempo mexendo com isso... faz uns anos que não mexo mais lembro de muita coisa
             ainda, os mov, add, registores, e nesta mesma época meu conhecimento binário evoluiu
             muito.`
