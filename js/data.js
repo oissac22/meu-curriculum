@@ -246,6 +246,7 @@ export const Data = {
         JavaScript,
         S.O.L.I.D,
         TDD,
+        GraphQL,
         CSS,
         HTML,
         C,
@@ -401,6 +402,11 @@ export const Data = {
             erros de codificação cairam após eu começar a aplicar o TDD, testes unitários, integrados e E2E.
             Uso o Jest e foco no tdd, todos os meus projetos atuais tem o padrão tdd
             para comprovar seu bom funcionamento futuro, mesmo após manutenções.`
+        },
+        {
+            title: "GraphQL",
+            description: `Conheci essa linguagem por causa de uma entrevista em 2023, muito interessante, dinamica
+            e super fácil de aprender. Já esta sendo parte de meu dia a dia.`
         },
         {
             title: "SQL",
