@@ -242,10 +242,11 @@ export const Data = {
         C,
         PHP,
         Phyton,
-        Delphi,
         JavaScript,
         CSS,
         HTML,
+        Java,
+        Delphi,
         <br />
         
         Next JS,
@@ -362,6 +363,14 @@ export const Data = {
             description: `50 horas de curso com Victor Lima do Guia do programador. Certificado de código
             UC-7822d2d7-93fc-4383-b88c-9d152a6ec824, link do certificado:
             https://www.udemy.com/certificate/UC-7822d2d7-93fc-4383-b88c-9d152a6ec824/`
+        },
+        {
+            title: "Java completo 2023 - Programação orientada a objetos + projetos",
+            school: "Nelio Alves - Udemy",
+            date: "ano de 2023",
+            description: `54.5 horas de curso com Nelio Alves. Certificado de código
+            UC-be9880bf-91ec-476f-8e0c-5f85ba7ea6b2, link do certificado:
+            https://www.udemy.com/certificate/UC-be9880bf-91ec-476f-8e0c-5f85ba7ea6b2/`
         },
         {
             title: "Chatbot com JavaScript",

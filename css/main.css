@@ -20,3 +20,7 @@ body {
 [x-justify] {
     text-align: justify;
 }
+
+[x-break-print] {
+    page-break-inside: avoid;
+}
