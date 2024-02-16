@@ -11,11 +11,22 @@ export const Data = {
 
     experience: [
         {
+            title: "DBC Company / Eye / Getnet",
+            state: "Porto Alegre/RS",
+            job: "Programador Sênior frontend, backend e segurança",
+            from: "outubro de 2023",
+            to: "trabalho atual",
+            description: `Atua como desenvolvedor sênior em front e back, focado em segurança de dados e restrições de acesso,
+            envolvendo as linguagens java, javascript, html, css, mysql, nodejs, e algoritmos complexos
+            de segurança e inteligência.
+            `
+        },
+        {
             title: "DBC Company / Unimed Porto alegre",
             state: "Porto Alegre/RS",
             job: "Programador Sênior frontend e backend",
             from: "novembro de 2020",
-            to: "trabalho atual",
+            to: "outubro de 2023",
             description: `Atuo como líder técnico e no desenvolvendo sistemas frontend e backend,
             envolvendo principalmente React JS, Node JS, Next JS, javascript, css, html,
             além de uso e implementações de muitas tecnologias como o dialogflow,
@@ -64,6 +75,27 @@ export const Data = {
     ],
 
     projects: [
+        {
+            company: "DBC Company / Eye / Getnet",
+            job: "Melhoria de projeto legado",
+            technologies: "java, javascript, html, css, mysql, nodejs, e algoritmos complexos de segurança e inteligência",
+            description: `Verificação de pontos inseguros e estratégias de solução para os mesmos.`
+        },
+        {
+            company: "DBC Company / Eye / Getnet",
+            job: "Melhoria de projeto legado",
+            technologies: "java, mysql",
+            description: `Reconstrução de 80% de um projeto legado de anos em java, para melhoria de segurança e atualização de serviços.`
+        },
+        {
+            company: "DBC Company / Eye / Getnet",
+            job: "segurançao mobile",
+            technologies: "nodejs, mysql",
+            description: `Trabalhei em um projeto de backend para aparelhos mobile que tinha por objetivo
+            fornecer as tratativas de segurança de login, atualização de dados em segundo plano para senhas
+            inseguras, mudança de criptografias para melhor segurança, dentre outras ações estratégicas para
+            melhoria de segurança sem afetar clientes.`
+        },
         {
             company: "DBC Company / Unimed Porto alegre",
             job: "Monitoramento de conversas Cliente x Atendente",
