@@ -11,12 +11,22 @@ export const Data = {
 
     experience: [
         {
+            title: "WEG",
+            state: "Jaraguá do Sul/SC",
+            job: "Programador Sênior frontend, backend",
+            from: "maio de 2024",
+            to: "julho de 2025",
+            description: `Atuei como desenvolvedor sênior em front e back, focado em desenvolvimento e melhorias,
+            envolvendo as linguagens java, javascript, html, css, mysql, nodejs, nextjs, tailwind, e algoritmos complexos.
+            `
+        },
+        {
             title: "DBC Company / Eye / Getnet",
             state: "Porto Alegre/RS",
             job: "Programador Sênior frontend, backend e segurança",
             from: "outubro de 2023",
-            to: "trabalho atual",
-            description: `Atua como desenvolvedor sênior em front e back, focado em segurança de dados e restrições de acesso,
+            to: "maio de 2024",
+            description: `Atuei como desenvolvedor sênior em front e back, focado em segurança de dados e restrições de acesso,
             envolvendo as linguagens java, javascript, html, css, mysql, nodejs, e algoritmos complexos
             de segurança e inteligência.
             `
@@ -27,7 +37,7 @@ export const Data = {
             job: "Programador Sênior frontend e backend",
             from: "novembro de 2020",
             to: "outubro de 2023",
-            description: `Atuo como líder técnico e no desenvolvendo sistemas frontend e backend,
+            description: `Atuei como líder técnico e no desenvolvendo sistemas frontend e backend,
             envolvendo principalmente React JS, Node JS, Next JS, javascript, css, html,
             além de uso e implementações de muitas tecnologias como o dialogflow,
             jenkins, devops azure, mysql, sqllitter, mongodb, oracledb, etc...
@@ -39,7 +49,7 @@ export const Data = {
             job: "Analista de sistemas e Programador Sênior frontend e backend",
             from: "dezembro de 2010",
             to: "novembro de 2020",
-            description: `Atuando em várias áreas da programação no frontend e backend, utilizando
+            description: `Atuei em várias áreas da programação no frontend e backend, utilizando
             Javascript, html, css, php, node js, React JS, React Native, Delphi, Shell
             Script, mysql e noSql, Atuando também na segurança e administração de
             servidores, design e arte, além de ser líder de desenvolvimento e consultor.`
@@ -75,6 +85,30 @@ export const Data = {
     ],
 
     projects: [
+        {
+            company: "WEG",
+            job: "Melhoria de projeto legado, Studio project",
+            technologies: "java, javascript, html, css, mongodb, nodejs, nextjs, tailwind, e algoritmos complexos",
+            description: `Ajuste de falhas e desempenho de sistemas legados.`
+        },
+        {
+            company: "WEG",
+            job: "Melhoria de projeto legado, Configurator project",
+            technologies: "java, javascript, html, css, mongodb, nodejs, nextjs, tailwind, e algoritmos complexos",
+            description: `Ajuste de falhas e desempenho de sistemas legados.`
+        },
+        {
+            company: "WEG",
+            job: "Melhoria de projeto legado, Simulator project",
+            technologies: "java, javascript, html, css, mongodb, nodejs, nextjs, tailwind, e algoritmos complexos",
+            description: `Ajuste de falhas e desempenho de sistemas legados.`
+        },
+        {
+            company: "WEG",
+            job: "Melhoria de projeto legado, Stage project",
+            technologies: "java, javascript, html, css, mongodb, nodejs, nextjs, tailwind, e algoritmos complexos",
+            description: `Ajuste de falhas e desempenho de sistemas legados.`
+        },
         {
             company: "DBC Company / Eye / Getnet",
             job: "Melhoria de projeto legado",
@@ -271,13 +305,13 @@ export const Data = {
         <br />
 
         Node JS,
+        Java,
         C,
         PHP,
         Phyton,
         JavaScript,
         CSS,
         HTML,
-        Java,
         Delphi,
         <br />
         
