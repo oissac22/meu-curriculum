@@ -17,7 +17,7 @@ export const Data = {
             from: "maio de 2024",
             to: "julho de 2025",
             description: `Atuei como desenvolvedor sênior em front e back, focado em desenvolvimento e melhorias,
-            envolvendo as linguagens java, javascript, html, css, mysql, nodejs, nextjs, tailwind, e algoritmos complexos.
+            envolvendo as linguagens java, javascript, html, css, mongodb, nodejs, nextjs, tailwind, e algoritmos complexos.
             `
         },
         {
@@ -394,7 +394,7 @@ export const Data = {
         {
             title: "CS50's Introduction to Computer Science",
             school: "Harvard",
-            date: "ano de 2023, cursando até o fim do ano",
+            date: "ano de 2023",
             description: `Curso estrangeiro online em Harvard onde eles ensinam Strach, C, Phyton,
             SQL, Algorithms, HTML, CSS, Javascript, Flask, Emoji, Memory e Cybersecurity`
         },
